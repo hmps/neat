@@ -1,4 +1,4 @@
-# This repo is deprecated. Bourbon is available on Bower via the official maintainers, Thoughtbot.
+# This repo is deprecated. Neat is available on Bower via the official maintainers, Thoughtbot.
 
 # NEAT for BOWER
 
